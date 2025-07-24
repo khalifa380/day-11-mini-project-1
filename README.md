@@ -16,6 +16,6 @@ This project is part of my 14-day Back-End Web Development Internship at IBM. It
 4. API will be live at: `http://127.0.0.1:5000`
 ## 💻 Output Screenshot
 
-![Blog API Output](Screenshot (290).png)
+
 
 
