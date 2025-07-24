@@ -14,5 +14,8 @@ This project is part of my 14-day Back-End Web Development Internship at IBM. It
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the server: `python app.py`
 4. API will be live at: `http://127.0.0.1:5000`
+## 💻 Output Screenshot
+
+![Blog API Output](screenshot.png)
 
 
